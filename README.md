@@ -4,7 +4,7 @@ A simple Python desktop application that displays an image slideshow using Tkint
 
 ## Technologies Used
 - Python
-- Tkinter
+- Tkinter 
 - Pillow (PIL)
 
 ## How to Run
